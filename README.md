@@ -1,2 +1,2 @@
 # progymnasmata
-Greek projects
+For my Greek projects
